@@ -1,0 +1,26 @@
+*************************************************************************
+*									*
+*			     System Monitor				*
+*				Vex Pasia				*
+*				2001-2002				*
+*		  kuroikazioni@yahoo.com/vex666@hotmail.com		*
+*									*
+*************************************************************************
+
+I dont take credit for all the codes in this program some of which i have 
+dowloaded from PSC by the way thanks for the codes. No need to vote for me
+I just wanted to help someone out there who needs something like this.
+
+What System Monitor does:
+
+1. Get Free Memory(RAM) of your PC
+2. Get Free Disk Space
+3. Get CPU Usage
+4. Optimize Memory/Free Up Memory space
+
+Features:
+
+1. Custom Progress bar
+2. System Tray Compatible
+
+*Please email me for your comments and suggestions or questions.
